@@ -1,0 +1,68 @@
+[
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodojapan",
+        "proglang": "javascript",
+        "name": "eslint.rules.indent",
+        "des": "enforce consistent indentation",
+        "activated": true,
+        "config": [
+            1,
+            4
+        ]
+    },
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodojapan",
+        "proglang": "javascript",
+        "name": "eslint.rules.no-else-return",
+        "des": "disallow else blocks after return statements in if statements",
+        "activated": false,
+        "config": 1
+    },
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodojapan",
+        "proglang": "javascript",
+        "name": "eslint.rules.semi",
+        "des": "require or disallow semicolons instead of ASI",
+        "activated": true,
+        "config": [
+            1,
+            "always"
+        ]
+    },
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodovn",
+        "proglang": "javascript",
+        "name": "eslint.rules.indent",
+        "des": "enforce consistent indentation",
+        "activated": true,
+        "config": [
+            1,
+            4
+        ]
+    },
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodovn",
+        "proglang": "javascript",
+        "name": "eslint.rules.no-else-return",
+        "des": "disallow else blocks after return statements in if statements",
+        "activated": false,
+        "config": 1
+    },
+    {
+        "customer": "do-cuong-mulodo",
+        "project": "mulodovn",
+        "proglang": "javascript",
+        "name": "eslint.rules.semi",
+        "des": "require or disallow semicolons instead of ASI",
+        "activated": true,
+        "config": [
+            1,
+            "always"
+        ]
+    }
+]
