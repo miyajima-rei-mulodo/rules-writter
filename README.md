@@ -33,10 +33,10 @@ When running (please see Usage), it will insert (example) into a NoSQL database 
 ```
 
 ## Practical use
-1. Configure **config.js** to point to your NoSQL MongoDB.
-2A. Define a project in pipelineEditor, then have CodeBuild run this application (not yet done)
-or
-2B. Define a project in **pipielineEditor** service, then run this manually on your machine 
+1. Configure **config.js** to point to your NoSQL MongoDB.<br>
+2A. Define a project in pipelineEditor, then have CodeBuild run this application (not yet done)<br>
+or<br>
+2B. Define a project in **pipielineEditor** service, then run this manually on your machine <br>
 3. Activate/Deactivate rule using **buildConfigEditor** service.
 
 ## Usage:
