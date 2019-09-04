@@ -7,7 +7,7 @@ rules-writter is a **node application** designed to be run as a **command-line t
 This application takes in a customer (as defined in customerEditor which has still not been created), project (as defined in pipelineEditor), and a programming language.
 It then defines a set of rules for the project to use when running checks.
 
-Currently, we need to manually init the rules which means this application needs to run in a machine. It has net yet been added to pipelineEditor, as shown in Mock v1 and Mock v2 data-flow charts.
+Currently, we need to manually init the rules which means this application needs to run on a local machine. It has not yet been added to pipelineEditor, as shown in Mock v1 and Mock v2 data-flow charts.
 
 When running (please see Usage), it will insert (example) into a NoSQL database (designed for MongoDB):
 ```
