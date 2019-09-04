@@ -48,5 +48,5 @@ Report: [link](https://drive.google.com/open?id=18L_BjK9nowfHfi2ahACJn1WImLfqN0U
 <br>
 Data-flow chart (Mock v1): [link](https://www.draw.io/#G18ELoKoZrlJEpBrpnq2yvpiAbpAMcTSRn)
 <br>
-Data-flow chart (Mock v2, why pretty-json-update-db might be scrapped): [link](https://drive.google.com/file/d/1zYLtaYyKWOaLcLdAh16S4oM8cmoQV9v6/view?usp=sharing)
+Data-flow chart (Mock v2): [link](https://drive.google.com/file/d/1zYLtaYyKWOaLcLdAh16S4oM8cmoQV9v6/view?usp=sharing)
 <br>
